@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hossam Eddine Lehhit.
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning machine learning, algorithmics, and data structure.
+- 🌱 I’m currently an engineering student in my first year in CPGE.
 - 💞️ I’m looking to collaborate on learning more about coding.
 - 📫 You can contact me at: hoss.lehhit@gmail.com.
 
